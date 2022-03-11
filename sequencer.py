@@ -1,3 +1,4 @@
+#201902934 이호영
 #Made Sequencer
 class Sequencer:
     def __init__(self, maxValue):
