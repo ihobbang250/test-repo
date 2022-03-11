@@ -1,4 +1,4 @@
-#201902934 이호영
+#201902934 컴퓨터공학부 이호영
 #Made Sequencer
 class Sequencer:
     def __init__(self, maxValue):
