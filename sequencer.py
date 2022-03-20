@@ -1,5 +1,6 @@
 #201902934 컴전 이호영
 #Made Sequencer
+Touched by user2
 class Sequencer:
     def __init__(self, maxValue):
         self.maxValue = maxValue
