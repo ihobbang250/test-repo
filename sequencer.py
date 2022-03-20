@@ -17,3 +17,4 @@ class Sequencer:
 num = int(input()) #숫자입력받기
 s = Sequencer(num)
 print([s[i] for i in range(1, num+1)]) #s객체를 통해 얻을수 있는 값
+print(s[0])
