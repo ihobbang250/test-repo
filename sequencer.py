@@ -1,4 +1,4 @@
-#201902934 컴퓨터공학부 이호영
+#201902934 컴전 이호영
 #Made Sequencer
 class Sequencer:
     def __init__(self, maxValue):
@@ -13,4 +13,5 @@ class Sequencer:
     def __contains__(self, item):
         return 0 < item <= self.maxValue
 
-s = Sequencer(5) #i.g) 1~5 sequencer
+s = Sequencer(5) #i.g) 1~5 sequencerc
+t = Sequencer(6) #6 parameter
