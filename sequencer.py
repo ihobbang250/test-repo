@@ -19,3 +19,4 @@ s = Sequencer(num)
 print([s[i] for i in range(1, num+1)]) #s객체를 통해 얻을수 있는 값
 len(s) #len 메서드 재정의 확인
 (num-1) in s #contain 메서드 재정의 확인
+
